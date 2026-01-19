@@ -107,6 +107,24 @@ Install from your distro's package manager, it may use the python package at sys
     </td>
   </tr>
 
+  <!-- Fedora -->
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/fedora.svg" width="64">
+    </td>
+    <td>
+      Fedora
+    </td>
+    <td>
+      Install the <a href="https://copr.fedorainfracloud.org/coprs/starfish/nvibrant"><code>nvibrant</code></a> rpm.
+      <br />
+      See repo for instructions.
+    </td>
+    <td>
+      <a href="https://github.com/ykshek">@ykshek</a>
+    </td>
+  </tr>
+  
   <!-- Add yours via PR -->
   <tr>
     <td>...</td>
